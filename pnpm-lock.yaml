@@ -1,10 +1,12 @@
 lockfileVersion: 5.4
 
 specifiers:
+  tapable: ^2.2.1
   webpack: ^5.89.0
   webpack-cli: ^5.1.4
 
 devDependencies:
+  tapable: registry.npmmirror.com/tapable/2.2.1
   webpack: registry.npmmirror.com/webpack/5.89.0_webpack-cli@5.1.4
   webpack-cli: registry.npmmirror.com/webpack-cli/5.1.4_webpack@5.89.0
 
