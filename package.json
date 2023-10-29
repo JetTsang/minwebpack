@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "ejs": "^3.1.9",
+    "preset-env": "link:@babel/parser @babel/traverse @babel/core @babel/preset-env",
     "tapable": "^2.2.1",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
